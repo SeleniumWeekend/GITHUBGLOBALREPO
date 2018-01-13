@@ -10,7 +10,7 @@ public class Test1 {
 		{
 			sum = sum+i;
 		}
-		System.out.println(sum);
+		System.out.println("The Total Sum is : "+sum);
 		System.out.println("Main End");
 		
 	}
